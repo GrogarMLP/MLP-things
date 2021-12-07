@@ -1,0 +1,17 @@
+body {
+background-color:#0c272c;
+font-style: italic;
+color: #5a75a3;
+font-size: 30px ;
+}
+
+img
+{
+background-color:rgb(140, 146, 256);
+
+padding: 12px 14px;
+border-top: 8px solid rgb(100, 106, 216);
+border-right: 8px solid rgb(110, 116, 226);
+border-bottom:8px solid rgb(130, 136, 246);
+border-left: 8px solid rgb(120, 126, 236);
+}
